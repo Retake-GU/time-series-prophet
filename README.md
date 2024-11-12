@@ -1,1 +1,1 @@
-A presentation for midterm exam of time-series-analysis。
+A presentation for midterm exam of time-series-analysis.
